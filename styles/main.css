@@ -1,0 +1,38 @@
+header {
+	background-color: blue;
+	width: 100%;
+}
+
+.page-wrapper {
+	display: flex;
+	flex-direction: row;
+	/*min-height: 100vh;*/
+}
+
+section.intro {
+	background-color: yellow;
+	/*flex-direction: row;*/
+
+}
+
+div.main {
+	background-color: orange;
+	/*flex-direction: row;*/
+}
+
+aside.sidebar {
+	background-color: green;
+}
+
+footer {
+	background-color: pink;
+	
+}
+
+h1 {
+	font-size: 18px;
+}
+/*#zen-supporting{
+	flex-direction: row;
+
+}*/

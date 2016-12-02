@@ -4,8 +4,8 @@
 /* Added: Dec. 16th, 2004 */
 
 /* IMPORTANT */
-/* This design is not a template. You may not reproduce it elsewhere without the 
-   designer's written permission. However, feel free to study the CSS and use 
+/* This design is not a template. You may not reproduce it elsewhere without the
+   designer's written permission. However, feel free to study the CSS and use
    techniques you learn from it elsewhere. */
 
 
@@ -22,7 +22,7 @@
  }
 body	{
  background: #eee url(body.gif) no-repeat 50% 100%;
- color: #666; 
+ color: #666;
  font: 11px/1.3em Arial, Tahoma, sans-serif;
  text-align: center;
  }
